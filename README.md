@@ -4,5 +4,5 @@
 <div align="center">Skills & Tools</div>
 </br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,scss,styledcomponents,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,scss,styledcomponents,tailwind,html,css,figma" />
 </div>
